@@ -15,7 +15,7 @@ body {
     height: 100vh;
     margin: auto;
     text-align: center;
-    align-content: center;
+    /*align-content: center;*/
     color: white;
     display: flex;
     flex-direction: column;
