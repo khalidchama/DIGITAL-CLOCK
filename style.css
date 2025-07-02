@@ -17,6 +17,9 @@ body {
     text-align: center;
     align-content: center;
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 /* Styling the day div */
