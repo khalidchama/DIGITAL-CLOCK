@@ -17,10 +17,10 @@ body {
     text-align: center;
     /*align-content: center;*/
     color: white;
-    display: flex;
+    /*display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center;*/
 }
 
 /* Styling the day div */
